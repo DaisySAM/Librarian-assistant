@@ -5,4 +5,4 @@ This app is not completely ready. However, all the tasks were completed and the 
 
 The application assistant is a program that helps the librarian create a database of books. You can add new books or edit existing ones. Books can be saved to a file (archive) or downloaded from a file.
 
-![alt text](https://github.com/DaisySAM/Librarian-assistant/issues/1#issue-353000188)
+[Иллюстрация к проекту 1](https://github.com/DaisySAM/Librarian-assistant/issues/1#issue-353000188)
